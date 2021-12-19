@@ -53,6 +53,9 @@ Publish the website in the given URL.
 ![output](./images/zzss6.PNG)
 ![output](./images/zzss7.PNG)
 
+### Contact Page:
+![output](./images/zzss8.PNG)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
