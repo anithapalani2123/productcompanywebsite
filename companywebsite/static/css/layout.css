@@ -3,29 +3,24 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-color: whitesmoke;
-  color: #17421d;
-}
-.container {
-  width: 1080px;
-  margin-left: auto;
-  margin-right: auto;
-  border-width: 1px 1px 1px 1px;
-  border-style: solid;
-  box-shadow: 15px 15px 8px gray;
+  background-color: black;
+  color: rgb(226, 186, 52);
 }
 
 .banner {
   display: block;
-  width: 100%;
-  height: 250px;
+  width: 120%;
+  height: 320px;
   text-align: center;
-  font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
-  background-size: 100% 100%;
-  margin: 0px 0px 0px 0px;
+  font-size: 40px;
+  background-image: url("https://images.firstpost.com/wp-content/uploads/2021/09/iqoo-z5.jpg");
+  
+  background-size: 83.3% 100%;
+  background-repeat: no-repeat;
+   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  
+  color: rgb(226, 186, 52);
 }
 
 .menu {
@@ -33,7 +28,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: black;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -49,40 +44,53 @@ body {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
-  color: #16d1ae;
+  color: orangered;
 }
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: wheat;
 }
 
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-color: black;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
-  border-color: white;
+  border-color: black;
   border-style: solid;
+  
+  background-image: url("https://st1.bgr.in/wp-content/uploads/2019/07/Xiaomi-Mi-A3-Snapdragon-665-SoC.jpg");
+  
+  background-size: 78% 88%;
+  background-repeat: no-repeat;
+
+}
+#para1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 150%;
+  color: rgb(226, 186, 52);
 }
 .homecontent {
   min-height: 500px;
   margin: 10px 10px 10px 10px;
 }
-.homecontent h1 {
+.homecontent i {
   text-align: left;
 }
 .homecontent img {
   float: right;
-  width: 400px;
-  height: 300px;
+  width: 300px;
+  height: 500px;
   margin-left: 10px;
+  
 }
 
 .contenttext {
-  text-align: justify;
+  text-align: center;
 }
 
 .productcontent {
@@ -129,9 +137,9 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: black;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: white;
 }
