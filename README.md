@@ -49,6 +49,10 @@ Publish the website in the given URL.
 ![output](./images/ZZSS4.PNG)
 ![output](./images/ZZSS5.PNG)
 
+### People Page:
+![output](./images/zzss6.PNG)
+![output](./images/zzss7.PNG)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
