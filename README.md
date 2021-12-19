@@ -45,8 +45,9 @@ Publish the website in the given URL.
 
 ### Products Page:
 
-![output](./images/zss3.PNG)
-![output](./images/zss4.PNG)
+![output](./images/ZZSS3.PNG)
+![output](./images/ZZSS4.PNG)
+![output](./images/ZZSS5.PNG)
 
 ## Result:
 
